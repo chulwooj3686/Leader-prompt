@@ -1,0 +1,6 @@
+{
+  "name": "리더스코어 프롬프트 - 팀장 실전 툴킷",
+  "description": "팀장을 위한 엄선된 실전 프롬프트 툴킷: 메타인지와 의사결정 판단력, 동기부여와 조절초점 이론, 신뢰와 관계형성",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
